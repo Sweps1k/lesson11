@@ -1,5 +1,3 @@
-/* Переконайся, що цей код єдиний у файлі style.css */
-
 body {
     font-family: 'Roboto', Arial, sans-serif;
     line-height: 1.6;
@@ -14,9 +12,8 @@ h1, h2, h3 {
     font-weight: 700;
     color: #222;
 }
-
 header {
-    background-color: #4a90e2; /* Шапка має стати яскраво-синьою */
+    background-color: #4a90e2; 
     color: white;
     text-align: center;
     padding: 30px 10px;
@@ -32,8 +29,8 @@ header {
     background-color: white;
     margin-bottom: 25px;
     padding: 25px;
-    border-radius: 12px; /* Кути блоків мають закруглитися */
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05); /* З'явиться м'яка тінь */
+    border-radius: 12px; 
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05); 
 }
 
 .day-img {
@@ -43,12 +40,11 @@ header {
     margin-top: 15px;
     border-radius: 8px;
 }
-
 .links-section {
     background-color: #ffffff;
     padding: 20px;
     border-radius: 12px;
-    border-left: 5px solid #4a90e2; /* Зліва з'явиться синя лінія */
+    border-left: 5px solid #4a90e2; 
 }
 
 a {
